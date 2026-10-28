@@ -389,7 +389,7 @@ export const PROJECTS_DATA: Project[] = [
       "brand": "MG Motor India"
     },
     "description": "Futuristic urban streetscape and compact EV lifestyle sets for MG Comet.",
-    "videoUrl": "https://www.youtube.com/embed/BW-cWOX7jSQ",
+    "videoUrl": "https://www.youtube.com/embed/a40xIK1SdkM",
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/5eff54177568929.64d8e0c0d17e9.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/cd480d177568929.64d8e0c0d266d.png",
