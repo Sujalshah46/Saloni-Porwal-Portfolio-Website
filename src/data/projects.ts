@@ -25,28 +25,24 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Gritty atmospheric set design and period texture build for the underground printing press, counterfeit money vault, and high-stakes corporate dens in Mumbai and Goa.",
     "videoUrl": "https://www.youtube.com/embed/KQdgKpNYho8",
     "gallery": [
-      "https://res.cloudinary.com/qmk62qgo/image/upload/c_limit,w_1920/e_brightness:8,e_contrast:7,e_saturation:4/f_auto/q_auto/v1789814854/farzi_homepage_8k.jpg",
-      "/farzi_homepage_8k.jpg",
-      "https://res.cloudinary.com/qmk62qgo/image/upload/v1789814854/farzi_homepage_8k.jpg",
-      "/farzi-cover.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/d8eea3189118351.65a6c354c89df.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/4d05c3189118351.65a6c3514cb48.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/1360ff189118351.65a6c3514d7bf.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/f38732189118351.65a6c3514e6a8.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4d05c3189118351.65a6c3514cb48.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1360ff189118351.65a6c3514d7bf.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f38732189118351.65a6c3514e6a8.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/08ea5c189118351.65a6c354c7bc6.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/08680a189118351.65a6c35210fe7.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/6212fd189118351.65a6c35213016.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/49663e189118351.65a6c35211fdf.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/08680a189118351.65a6c35210fe7.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6212fd189118351.65a6c35213016.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/49663e189118351.65a6c35211fdf.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/ba9b2c189118351.65a6c354c5e7f.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/c9ddc0189118351.65a6c352ad7b2.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b4d832189118351.65a6c352ae7a7.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/5d24fd189118351.65a6c3535e0ae.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/be5e06189118351.65a6c3535f881.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c9ddc0189118351.65a6c352ad7b2.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b4d832189118351.65a6c352ae7a7.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5d24fd189118351.65a6c3535e0ae.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be5e06189118351.65a6c3535f881.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/ab9773189118351.65a6c354c4f36.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/0bce9c189118351.65a6c354c6af5.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/a236f6189118351.65a6c35409670.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/908ba3189118351.65a6c35407cca.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/3b31aa189118351.65a6c35408b17.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a236f6189118351.65a6c35409670.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/908ba3189118351.65a6c35407cca.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3b31aa189118351.65a6c35408b17.png"
     ]
   },
   {
@@ -56,7 +52,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Web Series",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/c1f5bc239684675.692ed2061fa5e.png",
+    "thumbnail": "https://i.ytimg.com/vi/rdHJUgxm8DE/maxresdefault.jpg",
     "credits": {
       "role": "Set Decorator",
       "director": "Raj & DK",
@@ -65,9 +61,8 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Immersive 1990s retro worldbuilding in Gulaabganj, featuring custom period props, vintage mechanics workshops, neon-lit tea stalls, and opium cartel hideouts.",
     "videoUrl": "https://www.youtube.com/embed/rdHJUgxm8DE",
     "gallery": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/source/c1f5bc239684675.692ed2061fa5e.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/source/af4eb5239684675.692ed20620083.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/source/507be9239684675.692ed2062062e.png"
+      "https://i.ytimg.com/vi/rdHJUgxm8DE/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/rdHJUgxm8DE/hqdefault.jpg"
     ]
   },
   {
@@ -77,7 +72,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2025",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/0fbe05239612335.692da0d126cb9.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/05246a239612335.Y3JvcCwxOTIyLDE1MDQsNTQyLDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Amit Sharma",
@@ -87,29 +82,29 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Heartwarming intimate residential interiors reflecting real Indian households across multiple regional cultures, festive living rooms, and authentic home spaces.",
     "videoUrl": "https://www.youtube.com/embed/xLl-sci3KqI",
     "gallery": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/0fbe05239612335.692da0d126cb9.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/464c42239612335.692da0d1273b2.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/3107d9239612335.692da0d320639.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ff0f0e239612335.692da0d31ffcd.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/0faa31239612335.692da0d320fd7.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/4e409b239612335.692da0d41dfdd.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/6a8d04239612335.692da0d41e914.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/3351ef239612335.692da0d41d9ab.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/bd6d91239612335.692da0d41cf91.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/4c4a1f239612335.692da0d4ca8e7.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/bb13d0239612335.692da0d601317.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/41583c239612335.692da0d6009a3.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/8aa9e2239612335.692da0d601da8.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b9c57f239612335.692da0d5f3a91.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/f17a0c239612335.692da0d60004f.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/42b213239612335.692da0d73e57c.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/bf5ebd239612335.692da0d73dd7e.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/7ee3a8239612335.692da0d73d2ba.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/0ecf95239612335.692da0d73ed46.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/853fd8239612335.692da0d73d83e.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/7e69a4239612335.692da0d8940c2.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/e56ace239612335.692da0d894a18.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/a86d5f239612335.692da0d893689.jpeg"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0fbe05239612335.692da0d126cb9.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/464c42239612335.692da0d1273b2.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3107d9239612335.692da0d320639.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ff0f0e239612335.692da0d31ffcd.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0faa31239612335.692da0d320fd7.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4e409b239612335.692da0d41dfdd.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a8d04239612335.692da0d41e914.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3351ef239612335.692da0d41d9ab.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bd6d91239612335.692da0d41cf91.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4c4a1f239612335.692da0d4ca8e7.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bb13d0239612335.692da0d601317.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/41583c239612335.692da0d6009a3.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8aa9e2239612335.692da0d601da8.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b9c57f239612335.692da0d5f3a91.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f17a0c239612335.692da0d60004f.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/42b213239612335.692da0d73e57c.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bf5ebd239612335.692da0d73dd7e.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7ee3a8239612335.692da0d73d2ba.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0ecf95239612335.692da0d73ed46.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/853fd8239612335.692da0d73d83e.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e69a4239612335.692da0d8940c2.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e56ace239612335.692da0d894a18.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a86d5f239612335.692da0d893689.jpeg"
     ]
   },
   {
@@ -119,7 +114,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2024",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/ce9e91239686353.692ed813c2093.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/c89470239686353.Y3JvcCwxNjE2LDEyNjQsOTI4LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Hemant Bhandari",
@@ -136,11 +131,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "quacker-oats-dohale-jevan",
     "slug": "quacker-oats-dohale-jevan",
-    "title": "Quaker Oats – Dohale Jevan",
+    "title": "Quaker Oats \u2013 Dohale Jevan",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/c1f5bc239684675.692ed2061fa5e.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/47645d239684675.Y3JvcCwyMTc4LDE3MDQsNDgsMA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Hemant Bhandari",
@@ -162,7 +157,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2025",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/9f4982239624307.692daabf10434.jpg",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/0ac68e239624307.Y3JvcCw5MjAsNzIwLDE4MCww.jpg",
     "credits": {
       "role": "Production Designer",
       "director": "Aman Rai",
@@ -177,9 +172,9 @@ export const PROJECTS_DATA: Project[] = [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/839222239624307.692daabf11940.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/e8b014239624307.692daabf12747.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/0f1e84239624307.692daabf121d1.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/a6c55e239624307.692daabe1e54d.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/9f202e239624307.692daabe1ea60.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/5c35a1239624307.692daabe1dfd9.jpg"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a6c55e239624307.692daabe1e54d.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9f202e239624307.692daabe1ea60.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5c35a1239624307.692daabe1dfd9.jpg"
     ]
   },
   {
@@ -189,7 +184,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2025",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/c0863b239694019.692ef1f57b7fb.jpeg",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/cfa31e239694019.Y3JvcCwzOTkwLDMxMjEsMTksMA.jpeg",
     "credits": {
       "role": "Production Designer",
       "director": "Amit Sharma",
@@ -199,15 +194,15 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Playful youth apartment set styling with textured brick walls, music vinyl setups, and warm festive living rooms.",
     "videoUrl": "https://www.youtube.com/embed/WVF2Uqyny54",
     "gallery": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/c0863b239694019.692ef1f57b7fb.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b993e7239694019.692ef1f57be0f.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c0863b239694019.692ef1f57b7fb.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b993e7239694019.692ef1f57be0f.jpeg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/676952239694019.692ef1f7b8e7b.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/620490239694019.692ef1f657b65.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/8cf1f7239694019.692ef1f656be9.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/cc5710239694019.692ef1f657445.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/22ab6c239694019.692ef1f65821d.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/2df28b239694019.692ef1f72406f.jpeg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/2cac48239694019.692ef1f7248fd.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/620490239694019.692ef1f657b65.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8cf1f7239694019.692ef1f656be9.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cc5710239694019.692ef1f657445.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22ab6c239694019.692ef1f65821d.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2df28b239694019.692ef1f72406f.jpeg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2cac48239694019.692ef1f7248fd.png"
     ]
   },
   {
@@ -217,7 +212,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/f3042f175117361.64ae371d82303.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/02e6d9175117361.Y3JvcCwxMzc1LDEwNzYsOTczLDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Gaurav Gupta",
@@ -240,7 +235,7 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "cadbury-celebrations-hawker",
     "slug": "cadbury-celebrations-hawker",
-    "title": "Cadbury Celebrations – Hawker",
+    "title": "Cadbury Celebrations \u2013 Hawker",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": true,
@@ -256,9 +251,6 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Award-winning festive night market set build complete with hand-crafted wooden stalls, fairy lighting, and nostalgic street decor.",
     "videoUrl": "https://www.youtube.com/embed/jI8V1T0iJuo",
     "gallery": [
-      "https://res.cloudinary.com/qmk62qgo/image/upload/c_limit,w_1920/e_brightness:18,e_contrast:8,e_saturation:10/f_auto/q_auto/v1789814853/cadbury_homepage_8k.jpg",
-      "/cadbury_celebration.png",
-      "https://res.cloudinary.com/qmk62qgo/image/upload/v1789814854/cadbuury_celebtion.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/70a6b8171323543.646ceeb8af958.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/020bf4171323543.646ceeb8b073e.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/d1054f171323543.646ceeb8adbea.png",
@@ -268,7 +260,7 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "cadbury-politician",
     "slug": "cadbury-politician",
-    "title": "Cadbury – Politician",
+    "title": "Cadbury \u2013 Politician",
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": true,
@@ -284,9 +276,6 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Stately political campaign office set with dark teak furniture, brass accents, and authentic paper trail art direction.",
     "videoUrl": "https://www.youtube.com/embed/J3FWFWYSuPo",
     "gallery": [
-      "https://res.cloudinary.com/qmk62qgo/image/upload/c_crop,w_1920,h_820,y_130/e_brightness:2,e_contrast:5,e_saturation:8/c_fill,g_auto,w_1920,h_1080/f_auto/q_auto/v1789814854/cadbuury_celebtion.png",
-      "/cadbury_homepage_8k.jpg",
-      "https://res.cloudinary.com/qmk62qgo/image/upload/v1789814853/cadbury_homepage_8k.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/7dce05171322925.646cece6b86bd.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/4b5bb5171322925.646cece6ba246.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/cd3214171322925.646cece6bb041.png",
@@ -297,11 +286,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "cadbury-wedding-film",
     "slug": "cadbury-wedding-film",
-    "title": "Cadbury – Wedding Film",
+    "title": "Cadbury \u2013 Wedding Film",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/2f0045239687691.692edcc717adc.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/739b56239687691.Y3JvcCwxNjQ5LDEyOTAsMzE4LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -321,7 +310,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/b7b596189161095.65a77a12bb09a.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/9fe702189161095.Y3JvcCwxNzU2LDEzNzQsOTEsMA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Surjo Deb",
@@ -343,7 +332,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/9ca633177569927.64d8e4922419a.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/3199e9177569927.Y3JvcCwxNjM5LDEyODIsMzUyLDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Gaurav Gupta",
@@ -363,11 +352,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "amazon-rakshabandhan",
     "slug": "amazon-rakshabandhan",
-    "title": "Amazon – Rakshabandhan",
+    "title": "Amazon \u2013 Rakshabandhan",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/939c8a189113637.65a6b6fa034f2.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/f57555189113637.Y3JvcCwxNzQzLDEzNjQsMzM2LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shlok Sharma",
@@ -378,9 +367,9 @@ export const PROJECTS_DATA: Project[] = [
     "videoUrl": "https://www.youtube.com/embed/ZKz2GIHYSHE",
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/939c8a189113637.65a6b6fa034f2.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/a186b8189113637.65a6b6f962f5c.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/632bd4189113637.65a6b6f9625ac.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/b01828189113637.65a6b6f961968.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a186b8189113637.65a6b6f962f5c.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/632bd4189113637.65a6b6f9625ac.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b01828189113637.65a6b6f961968.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/23087e189113637.65a6b6fa025a3.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/408117189113637.65a6b6fa00a49.png"
     ]
@@ -388,11 +377,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "mg-comet",
     "slug": "mg-comet",
-    "title": "MG Comet – Cut the Crap",
+    "title": "MG Comet \u2013 Cut the Crap",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/5eff54177568929.64d8e0c0d17e9.jpg",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/b5d71d177568929.Y3JvcCwyODk5LDIyNjgsNjEwLDA.jpg",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -400,7 +389,7 @@ export const PROJECTS_DATA: Project[] = [
       "brand": "MG Motor India"
     },
     "description": "Futuristic urban streetscape and compact EV lifestyle sets for MG Comet.",
-    "videoUrl": "https://www.youtube.com/embed/0KaaUZ6aQ0I",
+    "videoUrl": "https://www.youtube.com/embed/BW-cWOX7jSQ",
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/5eff54177568929.64d8e0c0d17e9.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/cd480d177568929.64d8e0c0d266d.png",
@@ -411,11 +400,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "hide-and-seek",
     "slug": "hide-and-seek",
-    "title": "Hide & Seek – Start Your Story",
+    "title": "Hide & Seek \u2013 Start Your Story",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/1e036a171324031.646cf02dd2b8f.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/59cd46171324031.Y3JvcCwxMzkzLDEwOTAsNTE3LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Gaurav Gupta",
@@ -434,11 +423,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "clinic-plus-vo-kamzor-hai",
     "slug": "clinic-plus-vo-kamzor-hai",
-    "title": "Clinic Plus – Vo Kamzor Hai",
+    "title": "Clinic Plus \u2013 Vo Kamzor Hai",
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/46ab58171321547.646ce93858402.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/691931171321547.Y3JvcCwxMzA2LDEwMjIsNTQwLDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -450,24 +439,24 @@ export const PROJECTS_DATA: Project[] = [
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/46ab58171321547.646ce93858402.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/7766a2171321547.646ce938591c3.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/346371171321547.646ce937461a5.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/e23940171321547.646ce937484a8.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/f2a8f1171321547.646ce93746f1c.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/346371171321547.646ce937461a5.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e23940171321547.646ce937484a8.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f2a8f1171321547.646ce93746f1c.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/ec3054171321547.646ce93859fb8.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/875502171321547.646ce937c5a30.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/b4b541171321547.646ce937c4565.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/103b5c171321547.646ce937c378f.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/875502171321547.646ce937c5a30.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b4b541171321547.646ce937c4565.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/103b5c171321547.646ce937c378f.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/547273171321547.646ce9385782c.png"
     ]
   },
   {
     "id": "coke-studio-apna-sunao",
     "slug": "coke-studio-apna-sunao",
-    "title": "Coke Studio – Apna Sunao",
-    "category": "Commercials",
+    "title": "Coke Studio \u2013 Apna Sunao",
+    "category": "Promos/Music Video",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/3d5e01171331005.646d052838675.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/c69324171331005.Y3JvcCwxMzczLDEwNzQsNDkyLDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -485,11 +474,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "hyundai",
     "slug": "hyundai",
-    "title": "Hyundai – Drive Beyond",
+    "title": "Hyundai \u2013 Drive Beyond",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/fdb4f7177572303.64d8eed0174e2.jpg",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/92ea9d177572303.Y3JvcCwyMDI0LDE1ODMsMjQwLDQ1.jpg",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -500,19 +489,19 @@ export const PROJECTS_DATA: Project[] = [
     "videoUrl": "https://www.youtube.com/embed/c3Z5wibZ5kk",
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/fdb4f7177572303.64d8eed0174e2.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/2d0233177572303.64d8eecf94b9c.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/035935177572303.64d8eecf93b5b.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/5f3758177572303.64d8eecf92554.jpg"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2d0233177572303.64d8eecf94b9c.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/035935177572303.64d8eecf93b5b.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5f3758177572303.64d8eecf92554.jpg"
     ]
   },
   {
     "id": "maruti-suzuki",
     "slug": "maruti-suzuki",
-    "title": "Maruti Suzuki – Tyohaar",
+    "title": "Maruti Suzuki \u2013 Tyohaar",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/991138177567155.64d8d85718d75.jpg",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/96017a177567155.Y3JvcCwxMDA3LDc4OCwyNyww.jpg",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -522,12 +511,12 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Sleek modern automotive studio lighting setups, premium showroom floors, and outdoor drive stages.",
     "videoUrl": "https://www.youtube.com/embed/fd3726172951899",
     "gallery": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/991138177567155.64d8d85718d75.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/2286c7177567155.64d8d8571a591.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/a54971177567155.64d8d8578517b.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/93b274177567155.64d8d85787dee.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/dda82f177567155.64d8d85786fe1.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/e30b60177567155.64d8d8578609d.jpg"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/991138177567155.64d8d85718d75.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2286c7177567155.64d8d8571a591.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a54971177567155.64d8d8578517b.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/93b274177567155.64d8d85787dee.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dda82f177567155.64d8d85786fe1.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e30b60177567155.64d8d8578609d.jpg"
     ]
   },
   {
@@ -537,7 +526,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/ffc69f171319539.646ce3b5973c9.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/195532171319539.Y3JvcCwxNjMxLDEyNzYsNDY0LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Surjo Deb",
@@ -552,9 +541,9 @@ export const PROJECTS_DATA: Project[] = [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/d31c4c171319539.646ce3b59a0bf.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/c5bf89171319539.646ce3b5984b8.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/454f66171319539.646ce3b59bf07.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/0cf657171319539.646cffccee2c1.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/7b57ff171319539.646cffcd78e39.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/7ae09a171319539.646cffcd7812d.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0cf657171319539.646cffccee2c1.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7b57ff171319539.646cffcd78e39.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7ae09a171319539.646cffcd7812d.png"
     ]
   },
   {
@@ -564,7 +553,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ed22b3172320389.647dabdd84b42.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/d36f3e172320389.Y3JvcCwzMzAwLDI1ODEsMjY5LDExNA.jpg",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -574,33 +563,33 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Grand bridal haveli decor, elaborate floral installations, traditional wedding mandaps, and high-fashion jewellery display sets.",
     "videoUrl": "https://www.youtube.com/embed/0IZr3y9an-g",
     "gallery": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ed22b3172320389.647dabdd84b42.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/9d10a9172320389.647dabdd858db.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ed22b3172320389.647dabdd84b42.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d10a9172320389.647dabdd858db.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/dfc63f172320389.647dabe1a7092.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/cd2523172320389.647dabde06408.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/08eea4172320389.647dabde071c2.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/474962172320389.647dabde99cdc.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/d8277b172320389.647dabde9c3aa.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ce2ca6172320389.647dabde9adc6.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/535533172320389.647dabdf333b4.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/0f31f6172320389.647dabdfc9153.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/d6be60172320389.647dabdfca681.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ef775c172320389.647dabe05f40b.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/4cfadb172320389.647dabe05e827.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/64e721172320389.647dabe0ec253.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/daed67172320389.647dabe0ead2d.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/7b1c94172320389.647dabe0e8c7b.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/2d9ab0172320389.647dabe0e9adb.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cd2523172320389.647dabde06408.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/08eea4172320389.647dabde071c2.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/474962172320389.647dabde99cdc.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d8277b172320389.647dabde9c3aa.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ce2ca6172320389.647dabde9adc6.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/535533172320389.647dabdf333b4.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f31f6172320389.647dabdfc9153.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d6be60172320389.647dabdfca681.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ef775c172320389.647dabe05f40b.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4cfadb172320389.647dabe05e827.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/64e721172320389.647dabe0ec253.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/daed67172320389.647dabe0ead2d.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7b1c94172320389.647dabe0e8c7b.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2d9ab0172320389.647dabe0e9adb.png"
     ]
   },
   {
     "id": "clinic-plus-meri-beti-strong",
     "slug": "clinic-plus-meri-beti-strong",
-    "title": "Clinic Plus – Meri Beti Strong",
+    "title": "Clinic Plus \u2013 Meri Beti Strong",
     "category": "Commercials",
     "year": "2020",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/1785cf171314351.646cd5bb9aaf8.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/e335bd171314351.Y3JvcCwxNzY5LDEzODQsMzk0LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -611,26 +600,26 @@ export const PROJECTS_DATA: Project[] = [
     "videoUrl": "https://www.youtube.com/embed/rMyJ9vSH_mw",
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/1785cf171314351.646cd5bb9aaf8.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/eee2d2171314351.646cd5b9d09cf.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/5b6709171314351.646cd5b9cecba.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/e6dd08171314351.646cd5b9cfb62.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eee2d2171314351.646cd5b9d09cf.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5b6709171314351.646cd5b9cecba.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e6dd08171314351.646cd5b9cfb62.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/983658171314351.646cd5bb9c5b0.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/3d2643171314351.646cd5ba833ff.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/18d530171314351.646cd5ba841f2.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3d2643171314351.646cd5ba833ff.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/18d530171314351.646cd5ba841f2.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/7d2a5e171314351.646cd5bb9b9e3.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/9a08cc171314351.646cd5bb143af.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/d4bbf3171314351.646cd5bb1339a.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9a08cc171314351.646cd5bb143af.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d4bbf3171314351.646cd5bb1339a.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/78f13b171314351.646cd5bb9d4a6.png"
     ]
   },
   {
     "id": "platinum-love-leads-us",
     "slug": "platinum-love-leads-us",
-    "title": "Platinum – Love Leads Us",
+    "title": "Platinum \u2013 Love Leads Us",
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/1761fa171311973.646ccf34bc8e4.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/f520d4171311973.Y3JvcCwxMjM1LDk2NSwyNjUsMA.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -642,11 +631,11 @@ export const PROJECTS_DATA: Project[] = [
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/1761fa171311973.646ccf34bc8e4.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/867d0a171311973.646ccf34bd91d.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/004078171311973.646ccf337ebba.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/9cd348171311973.646ccf337dfc5.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/2369f3171311973.646ccf342e543.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b8ad56171311973.646ccf342f481.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/332feb171311973.646ccf342cf94.jpg"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/004078171311973.646ccf337ebba.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9cd348171311973.646ccf337dfc5.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2369f3171311973.646ccf342e543.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b8ad56171311973.646ccf342f481.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/332feb171311973.646ccf342cf94.jpg"
     ]
   },
   {
@@ -656,7 +645,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/1c7fa4171292693.646c95e69649b.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/48ea25171292693.Y3JvcCwxMzkzLDEwOTAsNTgyLDA.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -669,24 +658,24 @@ export const PROJECTS_DATA: Project[] = [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/1c7fa4171292693.646c95e69649b.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/e95615171292693.646c95e697afe.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/e488ef171292693.646c95e69bbfa.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/f602ba171292693.646c95e5ad039.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/b3ba2c171292693.646c95e5ab95c.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/a6c917171292693.646c95e5ac4d3.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f602ba171292693.646c95e5ad039.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b3ba2c171292693.646c95e5ab95c.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a6c917171292693.646c95e5ac4d3.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/fecbff171292693.646c95e69a545.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/e8ac37171292693.646c95e69918e.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/05e5c6171292693.646c95e69d26d.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/fs_still/2ea4b3171292693.646c95e62929c.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/fs_still/5ad950171292693.646c95e629d1f.jpg"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ea4b3171292693.646c95e62929c.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5ad950171292693.646c95e629d1f.jpg"
     ]
   },
   {
     "id": "biba-marshmello",
     "slug": "biba-marshmello",
-    "title": "Biba – Marshmello",
-    "category": "Commercials",
+    "title": "Biba \u2013 Marshmello",
+    "category": "Promos/Music Video",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/18a94f171376427.646dd0e32dd99.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/2c3286171376427.Y3JvcCwxMzIzLDEwMzUsNTUzLDIy.png",
     "credits": {
       "role": "Set Dresser",
       "director": "Punit Malhotra",
@@ -698,10 +687,10 @@ export const PROJECTS_DATA: Project[] = [
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/18a94f171376427.646dd0e32dd99.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/4b718a171376427.646dd0e332020.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/9212dd171376427.646dd0e1e6fbb.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/8efed5171376427.646dd0e1ea986.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/61de1e171376427.646dd0e2aa6a9.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b5cae2171376427.646dd0e2ab9fe.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9212dd171376427.646dd0e1e6fbb.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8efed5171376427.646dd0e1ea986.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/61de1e171376427.646dd0e2aa6a9.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5cae2171376427.646dd0e2ab9fe.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/00a589171376427.646dd0e33397a.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/c2b804171376427.646dd0e32f569.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/d47fc4171376427.646dd0e32ccd3.png"
@@ -714,7 +703,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/2f7a2f171286689.646c83e1b60b8.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/5eb876171286689.Y3JvcCw5MTYsNzE2LDE5MCwxNTQ.jpg",
     "credits": {
       "role": "Set Dresser",
       "director": "Shashank Chaturvedi",
@@ -724,13 +713,13 @@ export const PROJECTS_DATA: Project[] = [
     "description": "Lush green outdoor garden conservatory set and high-gloss hair salon studio art direction.",
     "videoUrl": "https://www.youtube.com/embed/c617ae167322583",
     "gallery": [
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/2f7a2f171286689.646c83e1b60b8.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/c291da171286689.646c83e1b4bb1.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/5faa55171286689.646c83e1b5458.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2f7a2f171286689.646c83e1b60b8.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/disp/c291da171286689.646c83e1b4bb1.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/disp/5faa55171286689.646c83e1b5458.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/disp/562440171286689.646c83e1b6945.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/73c5a9171286689.646c83e22ed85.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/65f69a171286689.646c83e22db96.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/41d208171286689.646c83e22d0c0.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/73c5a9171286689.646c83e22ed85.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/disp/65f69a171286689.646c83e22db96.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/disp/41d208171286689.646c83e22d0c0.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/disp/332f29171286689.646c83e22e40f.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/b0405d171286689.646c83e28133d.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/ca8d38171286689.646c83e27fb1b.jpg"
@@ -739,11 +728,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "surf-excel-smart-shots",
     "slug": "surf-excel-smart-shots",
-    "title": "Surf Excel – Smart Shots",
+    "title": "Surf Excel \u2013 Smart Shots",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/852d47175118089.64ae3a92df3bf.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/1c26b5175118089.Y3JvcCwxNzU2LDEzNzQsMjYwLDA.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -764,11 +753,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "pop-the-bottle-tuborg",
     "slug": "pop-the-bottle-tuborg",
-    "title": "Pop the Bottle – Tuborg",
-    "category": "Commercials",
+    "title": "Pop the Bottle \u2013 Tuborg",
+    "category": "Promos/Music Video",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/f6303f167318547.6426bf9064411.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/d6be36167318547.Y3JvcCwxNDEyLDExMDQsNDk5LDgw.png",
     "credits": {
       "role": "Intern",
       "director": "Remo Dsouza",
@@ -792,7 +781,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/d5921b171941181.64771c6b89396.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/3d8891171941181.Y3JvcCwxNDAzLDEwOTgsMCww.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -809,11 +798,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "britannia-golmaal",
     "slug": "britannia-golmaal",
-    "title": "Britannia – Golmaal Biscuits",
+    "title": "Britannia \u2013 Golmaal Biscuits",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/9bc4b8171943079.6477224c497db.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/ab7c8b171943079.Y3JvcCwxNzYxLDEzNzgsMCww.png",
     "credits": {
       "role": "Production Designer",
       "director": "Surjo Deb",
@@ -829,11 +818,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "coke-anthem-kolkata",
     "slug": "coke-anthem-kolkata",
-    "title": "Coke Anthem – Kolkata",
-    "category": "Commercials",
+    "title": "Coke Anthem \u2013 Kolkata",
+    "category": "Promos/Music Video",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/98e5c5171327837.646cfbcf06024.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/329aaf171327837.Y3JvcCwxMzg4LDEwODYsMTA2NSww.png",
     "credits": {
       "role": "Production Designer",
       "director": "Surjo Deb",
@@ -855,7 +844,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/7d7b69171330165.646d02c2ca3b7.jpg",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/6b6b7f171330165.Y3JvcCwyNzYxLDIxNjAsNTUzLDA.jpg",
     "credits": {
       "role": "Production Designer",
       "director": "Gaurav Gupta",
@@ -876,7 +865,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/56fc4c175120407.64ae44b88158e.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/80a833175120407.Y3JvcCwxMzI0LDEwMzYsMzcwLDA.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -895,11 +884,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "kfc-durga-pujo",
     "slug": "kfc-durga-pujo",
-    "title": "KFC – Durga Pujo",
+    "title": "KFC \u2013 Durga Pujo",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/6ff607171938431.6477140ad11dc.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/0f4c50171938431.Y3JvcCwxNDU3LDExNDAsMTEwMCww.png",
     "credits": {
       "role": "Production Designer",
       "director": "Surjo Deb",
@@ -921,7 +910,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/d06458171320283.646ce5bc871ab.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/9e4ec8171320283.Y3JvcCwxNDIxLDExMTIsNTY2LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -945,7 +934,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/86dbf9175147281.64ae9b42b5229.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/ed23d7175147281.Y3JvcCwxNjQ0LDEyODYsMCww.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -963,11 +952,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "clinic-plus-rani-film",
     "slug": "clinic-plus-rani-film",
-    "title": "Clinic Plus – Rani Film",
+    "title": "Clinic Plus \u2013 Rani Film",
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/60abf8171316313.646cdaf7e67a1.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/3c0b6f171316313.Y3JvcCwxNDcyLDExNTIsNTQzLDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -979,12 +968,12 @@ export const PROJECTS_DATA: Project[] = [
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/60abf8171316313.646cdaf7e67a1.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/481b91171316313.646cdaf7e7c6d.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/0d825b171316313.646cdaf6df9d3.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/2eef15171316313.646cdaf6dea44.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/1fe96f171316313.646cdaf6dda71.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/29cca5171316313.646cdaf775360.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/6eb86e171316313.646cdaf776b1c.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/4e3fd1171316313.646cdaf775dee.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0d825b171316313.646cdaf6df9d3.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2eef15171316313.646cdaf6dea44.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1fe96f171316313.646cdaf6dda71.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/29cca5171316313.646cdaf775360.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6eb86e171316313.646cdaf776b1c.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4e3fd1171316313.646cdaf775dee.png"
     ]
   },
   {
@@ -994,7 +983,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/2b086e177569353.64d8e2668dcef.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/c57ace177569353.Y3JvcCwxNzI1LDEzNTAsMTc1LDA.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -1013,11 +1002,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "huft",
     "slug": "huft",
-    "title": "HUFT – Heads Up For Tails",
+    "title": "HUFT \u2013 Heads Up For Tails",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/cc3f3a177570975.64d8e94aed57e.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/39db44177570975.Y3JvcCwxNzEwLDEzMzgsNDIzLDA.png",
     "credits": {
       "role": "Set Decorator",
       "brand": "HUFT India"
@@ -1035,7 +1024,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/6002bb171317319.646cdda98e421.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/ef1a63171317319.Y3JvcCwxMjE0LDk0OSw0ODEsMA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Kashif Menon",
@@ -1048,18 +1037,18 @@ export const PROJECTS_DATA: Project[] = [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/6002bb171317319.646cdda98e421.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/f38cd7171317319.646cdda98fb42.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/b4a633171317319.646cdda98f02f.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/8f8c18171317319.646cdda916bbf.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/hd_still/456358171317319.646cdda915a40.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f8c18171317319.646cdda916bbf.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/456358171317319.646cdda915a40.png"
     ]
   },
   {
     "id": "maruti-suzuki-tyohaar",
     "slug": "maruti-suzuki-tyohaar",
-    "title": "Maruti Suzuki –Driving school",
+    "title": "Maruti Suzuki \u2013Driving school",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/fd3726172951899.6488489b96a9c.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/5dfa5d172951899.Y3JvcCwxMzkzLDEwOTAsNjgyLDA.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -1070,16 +1059,16 @@ export const PROJECTS_DATA: Project[] = [
     "videoUrl": "https://www.youtube.com/embed/fd3726172951899",
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/fd3726172951899.6488489b96a9c.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b9b148172951899.648848994099e.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/e68c3f172951899.648848993f87a.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ca83ed172951899.6488489a0f4a6.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/90ef9a172951899.6488489a10456.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b9b148172951899.648848994099e.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e68c3f172951899.648848993f87a.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ca83ed172951899.6488489a0f4a6.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/90ef9a172951899.6488489a10456.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/9205c6172951899.6488489b98acb.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/d3e591172951899.6488489b97a11.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/2bda46172951899.6488489a7d97d.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ecf523172951899.6488489a7cd44.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/56e78a172951899.6488489b0c27b.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/c0cf0c172951899.6488489b0d410.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2bda46172951899.6488489a7d97d.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ecf523172951899.6488489a7cd44.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/56e78a172951899.6488489b0c27b.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c0cf0c172951899.6488489b0d410.png"
     ]
   },
   {
@@ -1089,7 +1078,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/62a48e171317893.646cdf38b9666.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/4fef38171317893.Y3JvcCwxNjQ5LDEyOTAsMzc1LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Gaurav Gupta",
@@ -1106,11 +1095,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "stayfree-its-just-period",
     "slug": "stayfree-its-just-period",
-    "title": "Stayfree – It's Just Period",
+    "title": "Stayfree \u2013 It's Just Period",
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/45a30e171318473.646ce0dd4761c.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/9e1bca171318473.Y3JvcCwxMzczLDEwNzQsNTQsMA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Gaurav Gupta",
@@ -1127,11 +1116,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "igp-diwali",
     "slug": "igp-diwali",
-    "title": "IGP – Diwali",
+    "title": "IGP \u2013 Diwali",
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/9b6073171315071.646cd7a002fb1.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/170475171315071.Y3JvcCwxMjI0LDk1OCw2OTEsMA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -1148,11 +1137,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "vivo-switch-off",
     "slug": "vivo-switch-off",
-    "title": "Vivo – Switch Off Your Phone For A Day",
+    "title": "Vivo \u2013 Switch Off Your Phone For A Day",
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/a24440171309539.646cc8350a48d.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/d7cf24171309539.Y3JvcCwxMzgwLDEwODAsOTYzLDA.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -1165,8 +1154,8 @@ export const PROJECTS_DATA: Project[] = [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/a24440171309539.646cc8350a48d.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/eaae17171309539.646cc8350b5e6.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/dff9f9171309539.646cc8350936c.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/fs_still/570cf3171309539.646cc83393c66.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/fs_still/442224171309539.646cc83394877.jpg"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/570cf3171309539.646cc83393c66.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/442224171309539.646cc83394877.jpg"
     ]
   },
   {
@@ -1176,7 +1165,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/79caed175119267.64ae3fc25e91a.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/2dfb2a175119267.Y3JvcCwxNjM2LDEyODAsNTMwLDA.png",
     "credits": {
       "role": "Set Decorator",
       "productionHouse": "Equinox Films",
@@ -1187,8 +1176,8 @@ export const PROJECTS_DATA: Project[] = [
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/79caed175119267.64ae3fc25e91a.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/8c7714175119267.64ae3fc25f75a.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/bbc32f175119267.64ae3fc1d608f.jpg",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/f1f094175119267.64ae3fc1d50cb.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbc32f175119267.64ae3fc1d608f.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f1f094175119267.64ae3fc1d50cb.jpg",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/58c2ac175119267.64ae3fc2607f9.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/edb995175119267.64ae3fc2616c5.jpg"
     ]
@@ -1200,7 +1189,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/03fbb4171291379.646c9205c7eff.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/3acc43171291379.Y3JvcCwxMzc1LDEwNzYsNTc1LDA.png",
     "credits": {
       "role": "Art Director",
       "productionHouse": "Substance Films",
@@ -1221,7 +1210,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/39d32b171247645.646bcd7241044.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/1707e1171247645.Y3JvcCwxMzYyLDEwNjUsNTAsNg.png",
     "credits": {
       "role": "Set Dresser",
       "director": "Karan Johar",
@@ -1243,7 +1232,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/d719be171288273.646c89028176b.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/64bab1171288273.Y3JvcCwxMjQ5LDk3Nyw0MjAsOTg.png",
     "credits": {
       "role": "Set Decorator",
       "director": "Sharat Kumar",
@@ -1255,7 +1244,7 @@ export const PROJECTS_DATA: Project[] = [
     "gallery": [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/d719be171288273.646c89028176b.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/21b911171288273.646c890283942.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/185c38171288273.646c890214e3a.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/185c38171288273.646c890214e3a.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/fecbc6171288273.646c8902828a9.png"
     ]
   },
@@ -1266,7 +1255,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/16c640171246275.646bc8ba7a398.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/27ff7a171246275.Y3JvcCwxNzY0LDEzODAsMzk3LDA.png",
     "credits": {
       "role": "Set Dresser",
       "productionHouse": "Equinox Films",
@@ -1279,17 +1268,20 @@ export const PROJECTS_DATA: Project[] = [
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/30f001171246275.646bc8ba7e0d3.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/505c6c171246275.646bc8ba7cca5.png",
       "https://mir-s3-cdn-cf.behance.net/project_modules/source/33515b171246275.646bc8ba7f6d7.png",
-      "https://mir-s3-cdn-cf.behance.net/project_modules/source/f3973c171246275.646bc8ba7b964.png"
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/f3973c171246275.646bc8ba7b964.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/704e98171216393.646b703bd1656.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/b35954171216393.646b703bd2f74.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/eb1b43171216393.646b703bd22da.png"
     ]
   },
   {
     "id": "lays-on-the-beach",
     "slug": "lays-on-the-beach",
-    "title": "Lay's – On The Beach",
+    "title": "Lay's \u2013 On The Beach",
     "category": "Commercials",
     "year": "2022",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/0178f1171214879.646b6c657d02b.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/09536b171214879.Y3JvcCwxNDkwLDExNjYsMCww.png",
     "credits": {
       "role": "Set Dresser",
       "brand": "Lay's India"
@@ -1309,7 +1301,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/fb5dec171212683.646b6ac945403.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/c02e10171212683.Y3JvcCwxNTk1LDEyNDcsNTA1LDE5.png",
     "credits": {
       "role": "Set Dresser",
       "director": "Punit Malhotra",
@@ -1331,7 +1323,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/68a713167324877.6426d4dd4ac97.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/a28fcb167324877.Y3JvcCwxMzgwLDEwNzksODQ0LDEwNQ.png",
     "credits": {
       "role": "Set Dresser",
       "brand": "Ponds Unilever"
@@ -1353,7 +1345,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/c617ae167322583.6426cca617e98.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/e7a04a167322583.Y3JvcCwxNDg4LDExNjQsMTM5LDA.png",
     "credits": {
       "role": "Set Dresser",
       "director": "Shashank Chaturvedi",
@@ -1375,7 +1367,7 @@ export const PROJECTS_DATA: Project[] = [
     "category": "Commercials",
     "year": "2021",
     "featuredInHero": false,
-    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/source/040a92167321573.6426c979b9104.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/1c0fee167321573.Y3JvcCwxNDU0LDExMzgsNTUwLDA.png",
     "credits": {
       "role": "Set Dresser",
       "director": "Shashank Chaturvedi",
@@ -1393,7 +1385,7 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "dettol-shadi-ka-ghar",
     "slug": "dettol-shadi-ka-ghar",
-    "title": "Dettol – Shadi Ka Ghar",
+    "title": "Dettol \u2013 Shadi Ka Ghar",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
@@ -1413,7 +1405,7 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "colgate-doctors-recommendation",
     "slug": "colgate-doctors-recommendation",
-    "title": "Colgate – Doctor's Recommendation",
+    "title": "Colgate \u2013 Doctor's Recommendation",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
@@ -1455,7 +1447,7 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "au-bank-soch-badlo",
     "slug": "au-bank-soch-badlo",
-    "title": "AU Bank – Soch Badlo",
+    "title": "AU Bank \u2013 Soch Badlo",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": true,
@@ -1481,7 +1473,7 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "starbucks-arpit",
     "slug": "starbucks-arpit",
-    "title": "Starbucks India – It Starts With Your Name",
+    "title": "Starbucks India \u2013 It Starts With Your Name",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
@@ -1529,11 +1521,11 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "wpl-womens-premier-league",
     "slug": "wpl-womens-premier-league",
-    "title": "WPL – Women's Premier League",
+    "title": "WPL \u2013 Women's Premier League",
     "category": "Commercials",
     "year": "2023",
     "featuredInHero": false,
-    "thumbnail": "https://i.ytimg.com/vi/dRaQhjsnE_4/hqdefault.jpg",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/25081f171940201.Y3JvcCwxMzczLDEwNzQsNzU0LDA.png",
     "credits": {
       "role": "Production Designer",
       "director": "Shashank Chaturvedi",
@@ -1543,13 +1535,13 @@ export const PROJECTS_DATA: Project[] = [
     "description": "High-energy stadium locker room, indoor cricket practice facility, and main arena stage set design.",
     "videoUrl": "https://www.youtube.com/embed/dRaQhjsnE_4",
     "gallery": [
-      "https://i.ytimg.com/vi/dRaQhjsnE_4/hqdefault.jpg"
+      "https://mir-s3-cdn-cf.behance.net/projects/original/25081f171940201.Y3JvcCwxMzczLDEwNzQsNzU0LDA.png"
     ]
   },
   {
     "id": "alpenliebe-kholo-meetha-bolo",
     "slug": "alpenliebe-kholo-meetha-bolo",
-    "title": "Alpenliebe – Kholo Meetha Bolo",
+    "title": "Alpenliebe \u2013 Kholo Meetha Bolo",
     "category": "Commercials",
     "year": "2025",
     "featuredInHero": false,
@@ -1570,7 +1562,7 @@ export const PROJECTS_DATA: Project[] = [
   {
     "id": "fedex-logistics",
     "slug": "fedex-logistics",
-    "title": "FedEx – Logistics & Global Care",
+    "title": "FedEx \u2013 Logistics & Global Care",
     "category": "Commercials",
     "year": "2026",
     "featuredInHero": false,
@@ -1607,6 +1599,178 @@ export const PROJECTS_DATA: Project[] = [
     "gallery": [
       "https://i.ytimg.com/vi/tnlJBPP6jWc/hqdefault.jpg"
     ]
+  },
+  {
+    "id": "drive-feature-film",
+    "slug": "drive-feature-film",
+    "title": "Drive",
+    "category": "Movies",
+    "year": "2019",
+    "featuredInHero": false,
+    "credits": {
+      "role": "Set Dresser",
+      "director": "Tarun Mansukhani",
+      "productionHouse": "Dharma Productions / Netflix"
+    },
+    "description": "High-octane heist action feature film. Elaborate production design for upscale underground auto garages, high-security financial vaults, and luxury suites.",
+    "videoUrl": "https://www.youtube.com/embed/fW_n6z2Q7cI",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/c7f343163372203.Y3JvcCwxNTcyLDEyMzAsNjUzLDA.png",
+    "gallery": [
+      "https://mir-s3-cdn-cf.behance.net/projects/original/c7f343163372203.Y3JvcCwxNTcyLDEyMzAsNjUzLDA.png"
+    ]
+  },
+  {
+    "id": "unpaused-short-film",
+    "slug": "unpaused-short-film",
+    "title": "Unpaused",
+    "category": "Movies",
+    "year": "2020",
+    "featuredInHero": false,
+    "credits": {
+      "role": "Production Designer",
+      "director": "Nikkhil Advani",
+      "productionHouse": "Emmay Entertainment / Amazon Prime Video"
+    },
+    "description": "Critically acclaimed anthology short film capturing intimate lockdown moments, authentic residential textures, and evocative contemporary home interiors.",
+    "videoUrl": "https://www.youtube.com/embed/46gB7tK_i64",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/9a3193171936925.Y3JvcCwxMTM0LDg4Nyw3NSwxMQ.jpg",
+    "gallery": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/3af604171936925.64770ff696982.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/7c7f6b171936925.64770ff69acf0.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/73c8bb171936925.64770ff698409.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/8ea729171936925.64770ff69948d.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/e4656b171936925.64770ff69c2c0.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/a2757b171936925.64770ff697614.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/386af2171936925.64770ff4be3bc.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fed05c171936925.64770ff4bef6d.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/947baf171936925.64770ff540d4e.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/601e66171936925.64770ff541de1.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34b0b0171936925.64770ff5b6734.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/56c980171936925.64770ff5b820b.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/46a412171936925.64770ff5b7332.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cd15c1171936925.64770ff5b9026.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cd4cf9171936925.64770ff6322de.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e872ed171936925.64770ff630fc2.jpg"
+    ]
+  },
+  {
+    "id": "ajeeb-daastaans-short-film",
+    "slug": "ajeeb-daastaans-short-film",
+    "title": "Ajeeb Daastaans",
+    "category": "Movies",
+    "year": "2021",
+    "featuredInHero": false,
+    "credits": {
+      "role": "Art Director / Production Designer",
+      "director": "Shashank Khaitan",
+      "productionHouse": "Dharma Productions / Netflix"
+    },
+    "description": "Layered domestic environments, evocative small-town textures, and dramatic interiors designed for Netflix's celebrated anthology drama.",
+    "videoUrl": "https://www.youtube.com/embed/p17P1j_b7Xk",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/f7cfae171306117.Y3JvcCw4OTIsNjk4LDI1OCww.png",
+    "gallery": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/e459c5171306117.646cbe7d78ef8.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/a28e01171306117.646cbe7d79df8.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/9c531b171306117.646cbe7d7aa07.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/694879171306117.646cc26958caf.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/830a95171306117.646cbe7d104a6.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9c0e07171306117.646cbe7d11256.jpg",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/764d40171306117.646cc26acbd18.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/277d7b171306117.646cc26acdb17.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/99d81a171306117.646cc269b50ec.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2d6351171306117.646cc269b653b.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/8fd243171306117.646cc26accc75.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72bc79171306117.646cc26a40237.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e21709171306117.646cc26a3f2b5.png"
+    ]
+  },
+  {
+    "id": "marvel-anthem-music-video",
+    "slug": "marvel-anthem-music-video",
+    "title": "Marvel Anthem \u2013 AR Rahman",
+    "category": "Promos/Music Video",
+    "year": "2019",
+    "featuredInHero": false,
+    "credits": {
+      "role": "Art Director",
+      "director": "Marvel Studios / Disney",
+      "productionHouse": "Disney India",
+      "brand": "Marvel Studios"
+    },
+    "description": "High-concept sci-fi music video set design celebrating Avengers: Endgame in India with dramatic neon staging and industrial geometric architecture.",
+    "videoUrl": "https://www.youtube.com/embed/OqD_Jc0P5Zk",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/e3ea44171294757.Y3JvcCwxMzg4LDEwODYsNzIxLDA.png",
+    "gallery": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/4b1601171294757.646c9c45ba027.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/d1f6ce171294757.646c9c45bc416.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd3740171294757.646c9c4467f2b.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bf6fed171294757.646c9c4466954.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/56573b171294757.646c9c45bb097.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1029aa171294757.646c9c452d27f.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c63a0f171294757.646c9c452c461.png"
+    ]
+  },
+  {
+    "id": "kaam-25-music-video",
+    "slug": "kaam-25-music-video",
+    "title": "Kaam 25 \u2013 Divine",
+    "category": "Promos/Music Video",
+    "year": "2018",
+    "featuredInHero": false,
+    "credits": {
+      "role": "Art Director",
+      "director": "Gully Gang / Netflix",
+      "productionHouse": "Netflix India",
+      "brand": "Sacred Games / Netflix"
+    },
+    "description": "Gritty, authentic Mumbai street-level hip-hop set build featuring raw alleyways, neon signage, and iconic urban rooftop sets for Sacred Games.",
+    "videoUrl": "https://www.youtube.com/embed/4bCjNq_6Fm4",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/e152a2171249499.Y3JvcCw3NDQsNTgyLDMwNCwxMDY.png",
+    "gallery": [
+      "https://mir-s3-cdn-cf.behance.net/projects/original/e152a2171249499.Y3JvcCw3NDQsNTgyLDMwNCwxMDY.png"
+    ]
+  },
+  {
+    "id": "koffee-with-karan-promo",
+    "slug": "koffee-with-karan-promo",
+    "title": "Koffee with Karan \u2013 Promo",
+    "category": "Promos/Music Video",
+    "year": "2022",
+    "featuredInHero": false,
+    "credits": {
+      "role": "Production Designer",
+      "director": "Dharma 2.0",
+      "productionHouse": "Dharma 2.0 / Disney+ Hotstar",
+      "brand": "Disney+ Hotstar"
+    },
+    "description": "Signature glamorous celebrity talk show promotional sets featuring gold statement fixtures, plush bespoke velvet seating, and high-fashion lighting.",
+    "videoUrl": "https://www.youtube.com/embed/5T2o-7aH2wY",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/1e3ecf171301743.Y3JvcCwxNjY0LDEzMDIsNDQ5LDA.png",
+    "gallery": [
+      "https://mir-s3-cdn-cf.behance.net/projects/original/1e3ecf171301743.Y3JvcCwxNjY0LDEzMDIsNDQ5LDA.png"
+    ]
+  },
+  {
+    "id": "koffee-shots-with-karan",
+    "slug": "koffee-shots-with-karan",
+    "title": "Koffee Shots with Karan",
+    "category": "Promos/Music Video",
+    "year": "2022",
+    "featuredInHero": false,
+    "credits": {
+      "role": "Production Designer",
+      "director": "Dharma 2.0",
+      "productionHouse": "Dharma 2.0 / Disney+ Hotstar",
+      "brand": "Disney+ Hotstar"
+    },
+    "description": "Chic, intimate studio lounge setup designed for rapid-fire celebrity moments with sleek moody backdrops and luxe textures.",
+    "videoUrl": "https://www.youtube.com/embed/5T2o-7aH2wY",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/original/9ef8b1177572983.Y3JvcCwxNzU5LDEzNzYsNDkyLDA.png",
+    "gallery": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/54b4ad177572983.64d8f1bf37050.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/b8e5c0177572983.64d8f1bf36252.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/source/113a1c177572983.64d8f1bf37dba.png"
+    ]
   }
 ];
 
@@ -1637,7 +1801,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     "role": "Set Decorator",
-    "project": "Harami (Feature Film)",
+    "project": "Harami",
     "productionHouse": "Indo-American Joint Venture",
     "year": "2020"
   },

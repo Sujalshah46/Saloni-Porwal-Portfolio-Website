@@ -1,72 +1,8 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React from 'react';
 import { motion } from 'motion/react';
-import { Camera, Upload } from 'lucide-react';
 import { WORK_EXPERIENCE } from '../data/projects';
 
-const STORAGE_KEY = 'saloni_portrait_custom_img';
-const DEFAULT_IMAGE_PATH = '/saloni-porwal-portrait.png';
-
 export const AboutSection: React.FC = () => {
-  const [imageSrc, setImageSrc] = useState<string>(() => {
-    return localStorage.getItem(STORAGE_KEY) || DEFAULT_IMAGE_PATH;
-  });
-  const [hasError, setHasError] = useState<boolean>(false);
-  const [isHovered, setIsHovered] = useState<boolean>(false);
-  const fileInputRef = useRef<HTMLInputElement>(null);
-
-  useEffect(() => {
-    const saved = localStorage.getItem(STORAGE_KEY);
-    if (saved) {
-      setImageSrc(saved);
-      setHasError(false);
-    }
-  }, []);
-
-  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
-    if (file) {
-      const reader = new FileReader();
-      reader.onload = (event) => {
-        const result = event.target?.result as string;
-        if (result) {
-          setImageSrc(result);
-          setHasError(false);
-          try {
-            localStorage.setItem(STORAGE_KEY, result);
-          } catch {
-            // Ignore quota errors
-          }
-        }
-      };
-      reader.readAsDataURL(file);
-    }
-  };
-
-  const handleDrop = (e: React.DragEvent<HTMLDivElement>) => {
-    e.preventDefault();
-    const file = e.dataTransfer.files?.[0];
-    if (file && file.type.startsWith('image/')) {
-      const reader = new FileReader();
-      reader.onload = (event) => {
-        const result = event.target?.result as string;
-        if (result) {
-          setImageSrc(result);
-          setHasError(false);
-          try {
-            localStorage.setItem(STORAGE_KEY, result);
-          } catch {
-            // Ignore quota errors
-          }
-        }
-      };
-      reader.readAsDataURL(file);
-    }
-  };
-
-  const handleDragOver = (e: React.DragEvent<HTMLDivElement>) => {
-    e.preventDefault();
-  };
-
   return (
     <section id="about" className="py-24 sm:py-32 bg-black text-white px-6 sm:px-10 lg:px-12 border-t border-white/10">
       <div className="max-w-7xl mx-auto space-y-20 lg:space-y-24">
@@ -82,57 +18,15 @@ export const AboutSection: React.FC = () => {
             transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
             className="lg:col-span-4 xl:col-span-4 flex flex-col items-start"
           >
-            <div
-              className="relative group w-full max-w-[280px] sm:max-w-[320px] aspect-[3/4] rounded-sm overflow-hidden bg-neutral-900 border border-white/15 shadow-2xl"
-              onMouseEnter={() => setIsHovered(true)}
-              onMouseLeave={() => setIsHovered(false)}
-              onDrop={handleDrop}
-              onDragOver={handleDragOver}
-            >
-              {!hasError ? (
-                <img
-                  src={imageSrc}
-                  alt="Saloni Porwal - Production Designer"
-                  className="w-full h-full object-cover object-center grayscale contrast-105 filter transition-all duration-700 group-hover:scale-105"
-                  onError={() => setHasError(true)}
-                />
-              ) : (
-                <div className="w-full h-full flex flex-col items-center justify-center p-6 text-center bg-gradient-to-b from-neutral-900 to-black text-neutral-300">
-                  <div className="w-14 h-14 rounded-full border border-white/20 flex items-center justify-center mb-3 bg-white/5">
-                    <Camera className="w-6 h-6 text-neutral-400" />
-                  </div>
-                  <h4 className="font-serif text-base text-white mb-1">Portrait Photo</h4>
-                  <p className="text-[11px] text-neutral-400 font-sans max-w-xs mb-4 leading-relaxed">
-                    Drag and drop your photo or click below.
-                  </p>
-                  <button
-                    type="button"
-                    onClick={() => fileInputRef.current?.click()}
-                    className="px-3 py-1.5 bg-white text-black text-[11px] font-sans font-medium tracking-wider uppercase rounded-sm hover:bg-neutral-200 transition-colors flex items-center space-x-1.5 cursor-pointer shadow-lg"
-                  >
-                    <Upload className="w-3 h-3" />
-                    <span>Upload</span>
-                  </button>
-                </div>
-              )}
+            <div className="relative group w-full max-w-[280px] sm:max-w-[320px] aspect-[3/4] rounded-sm overflow-hidden bg-neutral-900 border border-white/15 shadow-2xl">
+              <img
+                src="/assets/aistudio/IMG-20260919-WA0009_22186ff2.jpg"
+                alt="Saloni Porwal - Production Designer"
+                className="w-full h-full object-cover object-top transition-all duration-700 group-hover:scale-105"
+              />
 
               {/* Vignette Overlay */}
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-black/20 pointer-events-none" />
-
-              {/* Change Photo Button on hover */}
-              <div className="absolute bottom-3 right-3 z-20">
-                <button
-                  type="button"
-                  onClick={() => fileInputRef.current?.click()}
-                  title="Change portrait photo"
-                  className={`px-2.5 py-1 bg-black/80 hover:bg-black text-white text-[11px] font-sans tracking-wide rounded-sm border border-white/25 backdrop-blur-md transition-all duration-300 flex items-center space-x-1.5 shadow-xl cursor-pointer ${
-                    isHovered || hasError ? 'opacity-100' : 'opacity-75 sm:opacity-0 sm:group-hover:opacity-100'
-                  }`}
-                >
-                  <Camera className="w-3 h-3 text-neutral-300" />
-                  <span className="text-[10px]">Change Photo</span>
-                </button>
-              </div>
 
               {/* Portrait Label */}
               <div className="absolute bottom-3 left-3 z-20 pointer-events-none">
@@ -143,14 +37,6 @@ export const AboutSection: React.FC = () => {
                   Saloni Porwal
                 </span>
               </div>
-
-              <input
-                ref={fileInputRef}
-                type="file"
-                accept="image/*"
-                className="hidden"
-                onChange={handleFileUpload}
-              />
             </div>
 
             <p className="mt-4 text-[11px] sm:text-xs text-neutral-400 font-serif italic max-w-[280px] sm:max-w-[320px] tracking-wide leading-relaxed">
